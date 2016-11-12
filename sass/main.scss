@@ -1,0 +1,38 @@
+$color_black:#181818;
+$color_yellow:#fbc02d;
+$text_color:#000000;
+$head_text_color:#2a2a2a;
+$icon_color:#fccb53;
+$bg_color:#464f54;
+$author_color:#b4b4b4;
+//$container_bg:#fff;
+
+
+$text_font:'Lato', sans-serif;
+$heading_font:'Shrikhand', cursive;
+
+$container_width:1500px;
+
+body{
+  margin:0;
+
+}
+.container {
+
+
+}
+.form__left-form{
+  display: inline-block;
+}
+.form__right-form{
+  display: inline-block;
+}
+img{
+  float:left;
+  width: 100px;
+  height: 60px;
+}
+.text-right{
+margin:0;
+}
+
